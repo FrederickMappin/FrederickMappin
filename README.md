@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Bioinformatic Scientist
 -----------------------
 
-Bioinformatics scientist interested in computer-aided drug design (CADD), next-generation sequencing (NGS) analysis, and machine learning applications in biology.
+Bioinformatics scientist with experience in computer-aided drug design (CADD), next-generation sequencing (NGS) analysis, and machine learning applications in biology.
 
 * 🌍  I'm based in Miami, FL
 * ✉️  You can contact me at [drfrederickmappin@gmail.com](mailto:drfrederickmappin@gmail.com)
