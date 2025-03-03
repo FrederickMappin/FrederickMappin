@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Frederick Mappin
 =====================================================================================================================================
 
-Self-motivated bioinformatics research scientist with over 8 years of experience conducting research across a broad range of topics in bioinformatics, pharmacology, and genetic engineering. Proven ability to quickly master new techniques, tools, and scientific domains to support complex, hypothesis-driven research programs. Technical Skills include: 
+ I am a Self-motivated bioinformatics research scientist with over 8 years of experience conducting research across a broad range of topics in bioinformatics, pharmacology, and genetic engineering. Proven ability to quickly master new techniques, tools, and scientific domains to support complex, hypothesis-driven research programs. Technical Skills include: 
 
 • Sequencing Technologies: Experienced with Variant Analysis, CRISPR gene editing analysis, Methyl-seq, bulk RNA-seq,Shape-seq, scRNA-seq, PacBio and Nanopore sequencing for AAV analysis, and more.
 
