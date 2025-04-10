@@ -1,23 +1,66 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Frederick Mappin
 =====================================================================================================================================
+## Bioinformatics Research Scientist
+Miami, FL 33026 • drfrederickmappin@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/frederick-mappin/) • [GitHub](https://github.com/FrederickMappin)
 
- I am a self-motivated bioinformatics research scientist with over 8 years of experience conducting research across a broad range of topics in bioinformatics, pharmacology, and genetic engineering. Proven ability to quickly master new techniques, tools, and scientific domains to support complex, hypothesis-driven research programs. Technical Skills include: 
+## Professional Profile
 
-• Sequencing Technologies: Experienced with Variant Analysis, CRISPR gene editing analysis, Methyl-seq, bulk RNA-seq,Shape-seq, scRNA-seq, PacBio and Nanopore sequencing for AAV analysis, and more.
+Self-motivated bioinformatics research scientist with over 8 years of experience conducting research across a broad range of topics in bioinformatics, pharmacology, and genetic engineering. Proven ability to quickly master new techniques, tools, and scientific domains to support complex, hypothesis-driven research programs. **Technical Skills include:**
 
-• CADD Approaches: ADMET protein modeling, protein structural comparisons, QSAR, ligand pocket prediction, molecular docking, and molecular dynamic simulations, ligand exposure assays, NOAEL assays, and use of chemical fingerprints.
+- **Sequencing Modalities:** Experienced with Variant Analysis, CRISPR gene editing analysis, Methyl-seq, bulk RNA-seq, Shape-seq, scRNA-seq, PacBio and Nanopore sequencing for AAV analysis, and more.
 
-• Machine Learning: Experienced in developing and implementing ML pipelines for biological data analysis, including data preprocessing, feature engineering, model selection, training, and performance evaluation.
+- **Computer-Aided Drug Design Techniques:** ADMET protein modeling, protein structural comparisons, QSAR, ligand pocket prediction, molecular docking, and molecular dynamic simulations, ligand exposure assays, fingerprints analyses.
 
-• Pipeline Development: Proficient at the utilization of the pipeline workflow manager Nextflow, Docker containers, and Git version control, to conduct reproducible analyses from custom built pipelines.
+- **Machine Learning:** Experienced in developing and implementing ML pipelines for biological data analysis, including data preprocessing, feature engineering, model selection, training, and performance evaluation.
 
-• High-Performance Computing: Linux-based systems (SLURM and LSF); as well as AWS S3 and EC2. Experience with Jupyter Notebooks, GitPod and Google Colab for cloud computing and collaboration.
+- **Pipeline Development:** Proficient at the utilization of the pipeline workflow manager Nextflow, Docker containers, and Git version control, to conduct reproducible analyses from custom built pipelines.
 
-• Languages: Python, R, and Bash scripting for data manipulation, statistical analysis, machine learning, visualization and tool development.
-• Molecular Techniques: Working knowledge of the most used molecular techniques for the engineering, extraction, analysis, amplification, and sequencing of DNA and RNA.
+- **High-Performance Computing:** Linux-based systems (SLURM and LSF); as well as AWS S3 and EC2. Experience with Jupyter Notebooks, GitPod and Google Colab for cloud computing and collaboration.
 
-* 🌍  I'm based in Miami, FL
-* ✉️  You can contact me at [drfrederickmappin@gmail.com](mailto:drfrederickmappin@gmail.com)
+- **Languages:** Python, R, and Bash scripting for data manipulation, statistical analysis, machine learning, visualization and tool development.
+
+- **Molecular Techniques:** Working knowledge of the most used molecular techniques for the engineering, extraction, analysis, amplification, and sequencing of DNA and RNA.
+
+## Experience
+
+### Bioinformatic Scientist (Contract)
+**ElevateBio** | Waltham, MA | 01/2024 - 07/2024
+
+- Member of the NGS team under R&D, responsible for deploying established bioinformatic pipelines as well as developing custom in-house analyses to aid lab scientists in conducting research, testing hypotheses, quality assessments, and evaluation of ElevateBio R & D products.
+
+**Key Tasks included:** NGS Data Transfer & Quality Control | RNA-seq analysis | Methyl-seq analysis | Editing Analysis | Variant analysis | Shape-Seq pipeline development | AAV pipeline development
+
+### Postdoctoral Fellow
+**Laboratory of Tropical Genetics** | Miami, FL | 08/2023 - 01/2024 
+
+- Developed machine learning models for predicting ligand-receptor relationships across Dipteran.
+
+**Key Tasks included:** Machine Learning development
+
+### Graduate Research Assistant
+**Laboratory of Tropical Genetics** | Miami, FL | 08/2016 - 08/2023 
+
+- Used RNA-seq experiments to generate an odor-evoked transcriptome (OET), which allowed for the genome-wide survey of the transcriptional response to prolonged exposure to chemical ligands, with a focus on receptor and xenobiotic gene families. Performed protein structural comparisons of AlphaFold2 generated models to improve structure-activity relationship prediction in Dipteran.
+
+**Key Tasks included:** Dose-response bioassay | qRT-PCR analysis | RNA-seq analysis | Data mining and interpretation | Visualization of large databases | Protein structure prediction | Protein structural comparisons | QSAR analysis | Machine Learning | Interpretation and visualization
+
+### Graduate Teaching Assistant
+**Florida International University** | Miami, FL | 08/2020 - 08/2023 
+
+- Taught molecular biology/genetic engineering and bioinformatics technologies to undergraduate students.
+
+**Key Tasks included:** DNA extraction | gel-electrophoresis | PCR | Sanger sequencing | restriction digest | design of CRISPR sgRNA | protein modeling | homolog prediction | sequence analysis | NCBI BLAST | variant polymorphism detection | CRISPR editing analysis
+
+## Education
+
+| Degree | Institution | Year |
+|--------|-------------|------|
+| Ph.D. | Biology \| Florida International University, Miami, FL | 2023 |
+| M.S. | Biology \| Florida International University, Miami, FL | 2019 |
+| B.S. | Biology \| Florida International University, Miami, FL | 2016 |
+
+
 
 ### Skills
 
