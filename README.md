@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Frederick Mappin
 =====================================================================================================================================
 ## Bioinformatics Research Scientist
-Miami, FL 33026 • drfrederickmappin@gmail.com  
+Miami, FL  • drfrederickmappin@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/frederick-mappin/) • [GitHub](https://github.com/FrederickMappin)
 
 ## Professional Profile
