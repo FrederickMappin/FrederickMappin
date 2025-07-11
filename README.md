@@ -7,6 +7,7 @@ Miami, FL  • drfrederickmappin@gmail.com
 ## Professional Profile
 
 "Eh, I make my own stuff"
+
 Self-motivated bioinformatics research scientist with over 8 years of experience conducting research across a broad range of topics in bioinformatics, pharmacology, and genetic engineering. Proven ability to quickly master new techniques, tools, and scientific domains to support complex, hypothesis-driven research programs. **Technical Skills include:**
 
 - **Sequencing Modalities:** Experienced with Variant Analysis, CRISPR gene editing analysis, Methyl-seq, bulk RNA-seq, Shape-seq, scRNA-seq, PacBio and Nanopore sequencing for AAV analysis, and more.
