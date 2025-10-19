@@ -10,21 +10,30 @@ Miami, FL  • drfrederickmappin@gmail.com
 
 Self-motivated bioinformatics research scientist with over 8 years of experience conducting research across a broad range of topics in bioinformatics, pharmacology, and genetic engineering. Proven ability to quickly master new techniques, tools, and scientific domains to support complex, hypothesis-driven research programs. **Technical Skills include:**
 
-- **Sequencing Modalities:** Experienced with Variant Analysis, CRISPR gene editing analysis, Methyl-seq, bulk RNA-seq, Shape-seq, scRNA-seq, PacBio and Nanopore sequencing for AAV analysis, and more.
+**Omics Modalities:** Experienced with Variant Analysis, CRISPR gene editing analysis, Methyl-seq, bulk RNA-seq, Shape-seq,
+scRNA-seq, PacBio and Nanopore sequencing for AAV analysis, and more.
 
-- **Computer-Aided Drug Design Techniques:** ADMET protein modeling, protein structural comparisons, QSAR, ligand pocket prediction, molecular docking, and molecular dynamic simulations, ligand exposure assays, fingerprints analyses.
+**Machine Learning:** Experienced in developing and implementing ML pipelines for biological data analysis, including data
+preprocessing, feature engineering, model selection, training, and performance evaluation.
 
-- **Machine Learning:** Experienced in developing and implementing ML pipelines for biological data analysis, including data preprocessing, feature engineering, model selection, training, and performance evaluation.
+**Pipeline Development:** Proficient at the utilization of the pipeline workflow manager Nextflow, Docker containers, and Git
+version control, to conduct reproducible analyses from custom built bioinformatic pipelines. AWS cloud engineering S3, EC2,
+Batch, Lambda and Step Functions for pipeline cloud automation and orchestration. Has used Linux-based systems (SLURM
+and LSF); Experienced with Jupyter Notebooks, GitPod and Google Colab for collaboration and prototyping.
 
-- **Pipeline Development:** Proficient at the utilization of the pipeline workflow manager Nextflow, Docker containers, and Git version control, to conduct reproducible analyses from custom built pipelines.
+**Languages:** Python, R, and Bash scripting for data manipulation, statistical analysis, machine learning, visualization and software
+development.
 
-- **High-Performance Computing:** Linux-based systems (SLURM and LSF); as well as AWS S3 and EC2. Experience with Jupyter Notebooks, GitPod and Google Colab for cloud computing and collaboration.
+**Molecular Techniques:** Working knowledge of the most used molecular techniques for the engineering, extraction, analysis,
+amplification, and sequencing of DNA and RNA
 
-- **Languages:** Python, R, and Bash scripting for data manipulation, statistical analysis, machine learning, visualization and tool development.
+**Computer-Aided Drug Design Techniques:** ADMET protein modeling, protein structural comparisons, QSAR, ligand pocket prediction, molecular docking, and molecular dynamic simulations, ligand exposure assays, fingerprints analyses.
 
-- **Molecular Techniques:** Working knowledge of the most used molecular techniques for the engineering, extraction, analysis, amplification, and sequencing of DNA and RNA.
+
 
 ## Experience
+**Bioinformatic Consultant (Independent)**
+Specialized bioinformatics consultation services for biotechnology challenges. Contact me for a complimentary initial assessment of your needs. Confidentiality agreements and NDAs available to protect your intellectual property. Let's transform your biological data into actionable insights.
 
 ### Bioinformatic Scientist (Contract)
 **ElevateBio** | Waltham, MA | 01/2024 - 07/2024
