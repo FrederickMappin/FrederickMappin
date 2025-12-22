@@ -45,7 +45,6 @@ Key Tasks included: DNA extraction | gel-electrophoresis | PCR | Sanger sequenci
 Ph.D.	Biology | Florida International University | Miami, FL	2023
 M.S.	Biology | Florida International University | Miami, FL	2022
 B.S.	Biology | Florida International University | Miami, FL	2016
-<img width="468" height="647" alt="image" src="https://github.com/user-attachments/assets/69e31520-7b9c-4e36-bcc1-dec3f5a50f2b" />
 
 
 
