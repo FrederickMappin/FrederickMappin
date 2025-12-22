@@ -10,28 +10,37 @@ Miami, FL  • drfrederickmappin@gmail.com
 
 Bioinformatics research scientist with 8+ years of experience capable of delivering end-to-end bioinformatics solutions:
 •	Omics Modalities: Experienced with Human Genetic Variant Analysis (ACMG), CRISPR gene editing analysis, MethylSeq, bulk RNA-seq, ShapeSeq, scRNA-seq analysis, and long-read sequencing analysis (PacBio and Nanopore) for AAV vector characterization.
+
 •	Pipeline Development: Proficient at the utilization of the pipeline workflow manager Nextflow, Docker containers, and Git version control, to conduct reproducible analyses from custom built bioinformatic pipeline. Working knowledge of nf-core and EPI2ME for rapid access to industry grade pre-built pipelines.
+
 •	Cloud Engineering: AWS cloud engineering VPC, AMI, IAM, CloudFormation, S3, EC2, ECR, Batch, Lambda and Step Functions for pipeline cloud automation and orchestration. Has used Linux-based systems (SLURM and LSF).
+
 •	Languages and ML: Python, R, and Bash scripting for data manipulation, statistical analysis, visualization. Experienced with scikit-learn, pandas, numpy, and matplotlib for implementing Machine Learning workflows.
+
 •	Molecular Techniques: Hands-on experience with CRISPR-Cas9 gene editing (guide RNA design, transfection, clone validation), molecular cloning (restriction enzyme digestion, ligation, bacterial transformation, colony screening), nucleic acid extraction, PCR amplification, gel electrophoresis, and spectrophotometric quantification for DNA/RNA quality assessment.
 
 ## EXPERIENCE 
-Independent Bioinformatics Consultant / Independent Software Developer                                                           07/2024 -current 
+Independent Bioinformatics Consultant / Independent Software Developer                                                                                                                                07/2024 -current 
 •	Designing, deploying, and developing bioinformatic and educational solutions 
-Bioinformatics Scientist (Contract) | ElevateBio | Waltham, MA			                01/2024 - 07/2024
+
+Bioinformatics Scientist (Contract) | ElevateBio | Waltham, MA			                                                                                                                                  01/2024 - 07/2024
 •	Member of the NGS team under R&D, responsible for deploying established bioinformatics pipelines as well as developing custom in-house analyses to aid lab scientists in conducting research, testing hypotheses, and quality control. Developed custom bioinformatics pipeline for in-house AAV vector characterization including composition & contamination, vector genome integrity, & truncation hotspot identification. Conducted Multi-omics characterization of IPSCs cell lines using Methyl-seq, RNA-seq, Whole exome sequencing.  
 Key Tasks included: NGS Data Transfer & Quality Control | RNA-seq analysis | Methyl-seq analysis | Editing Analysis | Variant analysis | Shape-Seq pipeline development | AAV pipeline development
+
 Postdoctoral Fellow (Transitionary)| Laboratory of Tropical Genetics | Miami, FL		      08/2023 - 01/2024 
 •	Developed machine learning models for predicting ligand-receptor relationships across Dipteran. 
 Key Tasks included: Machine Learning development  
+
 Graduate Research Assistant | Laboratory of Tropical Genetics | Miami, FL 		      	      08/2016 - 08/2023 
 •	Used RNA-seq experiments to generate an odor-evoked transcriptome (OET), which allowed for the
 genome-wide survey of the transcriptional response to prolonged exposure to chemical ligands, with a focus on receptor and xenobiotic gene families. Performed protein structural comparisons of
 AlphaFold2 generated models to improve structure-activity relationship prediction in Dipteran.
 Key Tasks included: | qRT-PCR analysis | RNA-seq analysis | Data mining and interpretation| Visualization | Protein structure prediction | Protein structural comparisons | QSAR analysis | Machine Learning | 
+
 Graduate Teaching Assistant | Florida International University | Miami, FL 	                        08/2020 - 08/2023 
 Designed a course to teach CRISPR engineering and bioinformatics technologies to undergraduate students. 
 Key Tasks included: DNA extraction | gel-electrophoresis | PCR | Sanger sequencing |restriction digest | design of CRISPR sgRNA | protein modeling | homolog prediction | sequence analysis | NCBI BLAST | variant polymorphism detection | CRISPR editing analysis| knockdown | knockin | Donor DNA design for HDR | 
+
 ## EDUCATION
 Ph.D.	Biology | Florida International University | Miami, FL	2023
 M.S.	Biology | Florida International University | Miami, FL	2022
