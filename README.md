@@ -21,7 +21,8 @@ Bioinformatics research scientist with 8+ years of experience capable of deliver
 •	Molecular Techniques: Hands-on experience with CRISPR-Cas9 gene editing (guide RNA design, transfection, clone validation), molecular cloning (restriction enzyme digestion, ligation, bacterial transformation, colony screening), nucleic acid extraction, PCR amplification, gel electrophoresis, and spectrophotometric quantification for DNA/RNA quality assessment.
 
 ## EXPERIENCE 
-Independent Bioinformatics Consultant / Independent Software Developer                                                                                                                                07/2024 -current 
+Independent Bioinformatics Consultant / Independent Software Developer                                                                                                                                07/2024 -current
+
 •	Designing, deploying, and developing bioinformatic and educational solutions 
 
 Bioinformatics Scientist (Contract) | ElevateBio | Waltham, MA		                                                                                                                                   01/2024 - 07/2024
