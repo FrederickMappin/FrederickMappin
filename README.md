@@ -27,23 +27,25 @@ Bioinformatics Scientist (Contract) | ElevateBio | Waltham, MA			               
 •	Member of the NGS team under R&D, responsible for deploying established bioinformatics pipelines as well as developing custom in-house analyses to aid lab scientists in conducting research, testing hypotheses, and quality control. Developed custom bioinformatics pipeline for in-house AAV vector characterization including composition & contamination, vector genome integrity, & truncation hotspot identification. Conducted Multi-omics characterization of IPSCs cell lines using Methyl-seq, RNA-seq, Whole exome sequencing.  
 Key Tasks included: NGS Data Transfer & Quality Control | RNA-seq analysis | Methyl-seq analysis | Editing Analysis | Variant analysis | Shape-Seq pipeline development | AAV pipeline development
 
-Postdoctoral Fellow (Transitionary)| Laboratory of Tropical Genetics | Miami, FL		      08/2023 - 01/2024 
+Postdoctoral Fellow (Transitionary)| Laboratory of Tropical Genetics | Miami, FL		                                                                                                                 08/2023 - 01/2024 
 •	Developed machine learning models for predicting ligand-receptor relationships across Dipteran. 
 Key Tasks included: Machine Learning development  
 
-Graduate Research Assistant | Laboratory of Tropical Genetics | Miami, FL 		      	      08/2016 - 08/2023 
+Graduate Research Assistant | Laboratory of Tropical Genetics | Miami, FL 		      	                                                                                                               08/2016 - 08/2023 
 •	Used RNA-seq experiments to generate an odor-evoked transcriptome (OET), which allowed for the
 genome-wide survey of the transcriptional response to prolonged exposure to chemical ligands, with a focus on receptor and xenobiotic gene families. Performed protein structural comparisons of
 AlphaFold2 generated models to improve structure-activity relationship prediction in Dipteran.
 Key Tasks included: | qRT-PCR analysis | RNA-seq analysis | Data mining and interpretation| Visualization | Protein structure prediction | Protein structural comparisons | QSAR analysis | Machine Learning | 
 
-Graduate Teaching Assistant | Florida International University | Miami, FL 	                        08/2020 - 08/2023 
+Graduate Teaching Assistant | Florida International University | Miami, FL 	                                                                                                                         08/2020 - 08/2023 
 Designed a course to teach CRISPR engineering and bioinformatics technologies to undergraduate students. 
 Key Tasks included: DNA extraction | gel-electrophoresis | PCR | Sanger sequencing |restriction digest | design of CRISPR sgRNA | protein modeling | homolog prediction | sequence analysis | NCBI BLAST | variant polymorphism detection | CRISPR editing analysis| knockdown | knockin | Donor DNA design for HDR | 
 
 ## EDUCATION
 Ph.D.	Biology | Florida International University | Miami, FL	2023
+
 M.S.	Biology | Florida International University | Miami, FL	2022
+
 B.S.	Biology | Florida International University | Miami, FL	2016
 
 
