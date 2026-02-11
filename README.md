@@ -20,6 +20,11 @@ Bioinformatics research scientist with 8+ years of experience capable of deliver
 
 •	Molecular Techniques: Hands-on experience with CRISPR-Cas9 gene editing (guide RNA design, transfection, clone validation), molecular cloning (restriction enzyme digestion, ligation, bacterial transformation, colony screening), nucleic acid extraction, PCR amplification, gel electrophoresis, and spectrophotometric quantification for DNA/RNA quality assessment.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+
 ## EXPERIENCE 
 Independent Bioinformatics Consultant / Independent Software Developer                                                                                                                                07/2024 -current
 
